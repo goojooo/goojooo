@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 IT graduate with experience in e-commerce store development, Shopify, and modern web 
-technologies. Skilled in Java, SQL, HTML, CSS, and JavaScript. Currently enhancing skills through the 
-Itpreneur Master Program. Seeking a Software Developer role to contribute and grow. 🌱<br>
+technologies.<br>Skilled in Java, SQL, HTML, CSS, and JavaScript.<br>Currently enhancing skills through the 
+Itpreneur Master Program.<br>Seeking a Software Developer role to contribute and grow. 🌱<br>
 
 
 ## 🌐 Socials:
