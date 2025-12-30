@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 IT graduate with experience in e-commerce store development, Shopify, and modern web 
 technologies.<br>Skills : C, OOP, Core Java, JDBC, Servlet, JSP , SQL, HTML, CSS, and JavaScript.<br>Currently enhancing skills through the 
-Itpreneur Master Program.<br>Seeking a Software Developer role to contribute and grow....🌱<br>
+Itpreneur Master Program.<br>Seeking a Software Developer role to contribute and grow...🌱<br>
 
 
 ## 🌐 Socials:
@@ -15,10 +15,10 @@ Itpreneur Master Program.<br>Seeking a Software Developer role to contribute and
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=goojooo&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
-<!--
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=goojooo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
--->
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
