@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 IT graduate with experience in E-commerce store development, Shopify, and modern web 
+🌱 IT graduate with experience in E-commerce store development, Shopify, liquid programming, and modern web 
 technologies.<br>Skills : C, OOP, Core Java, JDBC ,JSE , J2EE, Servlet, JSP, Spring, Spring boot,SQL, HTML, CSS, Bootstrap, and JavaScript,Git/Github.<br>Currently enhancing skills through the 
 Itpreneur Master Program.<br>Seeking a Software Developer role to contribute and grow....🌱<br>
 
