@@ -22,10 +22,10 @@ I'm an IT graduate and aspiring Software Developer with a strong foundation in m
 ---
 
 ### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goojooo&theme=darcula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=goojooo&theme=darcula&hide_border=false" alt="GitHub Streak" />
-</div>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goojooo&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/goojooo)
+<br>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=goojooo&theme=darcula&hide_border=false)](https://github.com/goojooo)
 
 ---
 
