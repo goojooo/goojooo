@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayan Dahare</h1>
-<h3 align="center">Java Full Stack Developer (Fresher) with strong foundations in Core Java, OOPs, and Spring Boot, along with hands-on experience building REST APIs and full-stack web applications using React.js. Experienced in integrating databases like MySQL and MongoDB, and developing real-world projects including AI-powered tools.</h3>
+<h3 align="center">Java Full Stack Developer (Fresher) with strong foundations in Core Java, OOPs, and Spring Boot, along with hands-on experience building REST APIs and full-stack web applications using React.js. Experienced in integrating databases like MySQL and MongoDB, and developing real-world projects including AI-powered tools..</h3>
 
 - 📫 How to reach me **nayandahare02@gmail.com**
 
