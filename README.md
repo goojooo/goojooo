@@ -2,7 +2,7 @@
 <h3 align="center">Java Full Stack Developer (Fresher) with strong foundations in Core Java, OOPs, and Spring Boot, along with hands-on experience building REST APIs and full-stack web applications using React.js. Experienced in integrating databases like MySQL and MongoDB, and developing real-world projects including AI-powered tools..</h3>
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me: [nayandahare02@gmail.com](mailto:nayandahare02@gmail.com)
+- 📫 How to reach me: <a href="mailto:nayandahare02@gmail.com">nayandahare02@gmail.com</a>
 
 - 📄 RESUME: [https://drive.google.com/file/d/1qXJgxrdA7CEXwVrQn6D3DZt96K7S3oQs/view?usp=drive_link](https://drive.google.com/file/d/1qXJgxrdA7CEXwVrQn6D3DZt96K7S3oQs/view?usp=drive_link)
 
