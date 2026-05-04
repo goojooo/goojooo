@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me: <a href="mailto:nayandahare02@gmail.com">nayandahare02@gmail.com</a>
 
-- 📄 RESUME: [https://drive.google.com/file/d/1qXJgxrdA7CEXwVrQn6D3DZt96K7S3oQs/view?usp=drive_link](https://drive.google.com/file/d/1qXJgxrdA7CEXwVrQn6D3DZt96K7S3oQs/view?usp=drive_link)
+- 📄 RESUME: [CLICK...!](https://drive.google.com/file/d/1DRHi0Gyi60zGaNni9fvyeiokm-LGu-dE/view?usp=drive_link)
 
 <p align="left">
 </p>
